@@ -165,6 +165,7 @@ externalProducts:
     external: true
   npm:
     id: npm
+
     name: npm
     href: 'https://docs.npmjs.com/'
     external: true
